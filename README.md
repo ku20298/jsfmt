@@ -15,4 +15,4 @@ func main() {
 }
 ```
 
-![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
+![test](https://github.com/ku20298/jsfmt/blob/master/tameshi.PNG "サンプル")
