@@ -15,4 +15,4 @@ func main() {
 }
 ```
 
-![test](https://github.com/ku20298/jsfmt/blob/master/tameshi.PNG "サンプル")
+![test](https://github.com/ku20298/jsfmt/blob/master/sample.PNG "サンプル")
