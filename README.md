@@ -14,3 +14,5 @@ func main() {
 	jsfmt.Println(jsfmt.Color(colornames.Red, colornames.Skyblue, "World"))
 }
 ```
+
+![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
