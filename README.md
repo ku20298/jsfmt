@@ -2,7 +2,6 @@
 ブラウザの画面にfmt.Print()をしたい！(GopherJS)
 
 ```
-
 package main
 
 import (
@@ -14,5 +13,4 @@ func main() {
 	jsfmt.Println("Hello")
 	jsfmt.Println(jsfmt.Color(colornames.Red, colornames.Skyblue, "World"))
 }
-
 ```
